@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Freddi! / Olá eu sou o Freddi!
 
 <!--
 **peaugust/peaugust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 I'm an undergraduated student of Information Systems at Universidade Federal de Santa Catarina (UFSC)
+- 📲 I'm currently working at Jungle Devs, developing iOS native apps and hybrid apps using React Native Apps
+--- 
+- 🎓 Sou graduando em Sistemas de Informação na Universidade Federal de Santa Catarina (UFSC)
+- 📲 Atualmente trabalho na Jungle Devs, desenvolvendo aplicativos nativos em iOS e híbridos usando React Native
