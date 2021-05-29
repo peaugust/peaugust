@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 I'm an undergraduated student of Information Systems at Universidade Federal de Santa Catarina (UFSC)
+- 🎓 I'm an undergraduate student of Information Systems at Universidade Federal de Santa Catarina (UFSC)
 - 📲 I'm currently working at Jungle Devs, developing iOS native apps and hybrid apps using React Native Apps
 --- 
 - 🎓 Sou graduando em Sistemas de Informação na Universidade Federal de Santa Catarina (UFSC)
