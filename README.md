@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 I'm an undergraduate student of Information Systems at Universidade Federal de Santa Catarina (UFSC)
-- 📲 I'm currently working at Jungle Devs, developing iOS native and hybrid React Native apps
+- 📲 I'm currently working at Jungle Devs, developing iOS native and hybrid apps using React Native or Flutter.
 --- 
 - 🎓 Sou graduando em Sistemas de Informação na Universidade Federal de Santa Catarina (UFSC)
-- 📲 Atualmente trabalho na Jungle Devs, desenvolvendo aplicativos nativos em iOS e híbridos usando React Native
+- 📲 Atualmente trabalho na Jungle Devs, desenvolvendo aplicativos nativos em iOS e híbridos usando React Native ou Flutter.
