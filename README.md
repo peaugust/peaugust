@@ -1,23 +1,15 @@
-### Hello, I'm Freddi! / Olá eu sou o Freddi!
+# Mobile Developer
 
-<!--
-**peaugust/peaugust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Pedro Freddi a mobile developer with 3 years of experience working with iOS, React Native, and Flutter. I love being in touch with technology and enjoy creating innovative and efficient applications.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 3+ years working with iOS development
+- 2+ years working with React Native development
+- 1+ year Flutter development
 
-<!-- - 🎓 I'm an undergraduate student of Information Systems at Universidade Federal de Santa Catarina (UFSC)
-- 📲 I'm currently working at Jungle Devs, developing iOS native and hybrid apps using React Native or Flutter.
---- 
-- 🎓 Sou graduando em Sistemas de Informação na Universidade Federal de Santa Catarina (UFSC)
-- 📲 Atualmente trabalho na Jungle Devs, desenvolvendo aplicativos nativos em iOS e híbridos usando React Native ou Flutter.
- -->
+## Contact
+
+Feel free to reach out to me via LinkedIn. I'm always open to discussing new opportunities and projects.
+
+LinkedIn: [Pedro Freddi](https://www.linkedin.com/in/pedro-freddi/)
