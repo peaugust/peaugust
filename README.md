@@ -10,6 +10,6 @@ Hello! I'm Pedro Freddi a mobile developer with 3 years of experience working wi
 
 ## Contact
 
-Feel free to reach out to me via LinkedIn. I'm always open to discussing new opportunities and projects.
+Feel free to reach out to me via LinkedIn. I'm always open to discuss new opportunities and projects.
 
 LinkedIn: [Pedro Freddi](https://www.linkedin.com/in/pedro-freddi/)
