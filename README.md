@@ -1,6 +1,6 @@
 # Mobile Developer
 
-Hello! I'm Pedro Freddi a mobile developer with 4 years of experience working with iOS, React Native, and Flutter. I love being in touch with technology and enjoy creating innovative and efficient applications.
+Hello! I'm Pedro Freddi a mobile developer with 5 years of experience working with iOS, React Native, and Flutter. I love being in touch with technology and enjoy creating innovative and efficient applications.
 
 ## Skills
 
