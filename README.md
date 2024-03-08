@@ -4,7 +4,7 @@ Hello! I'm Pedro Freddi a mobile developer with 4 years of experience working wi
 
 ## Skills
 
-- 4+ years working with iOS development
+- 5+ years working with iOS development
 - 2+ years working with React Native development
 - 1+ year Flutter development
 
