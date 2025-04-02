@@ -1,4 +1,4 @@
-# Mobile Developer
+# Senior iOS Developer
 
 Hello! I'm Pedro Freddi a mobile developer with over 5 years of experience working with iOS, and React Native. I love being in touch with technology and enjoy creating innovative and efficient applications.
 
